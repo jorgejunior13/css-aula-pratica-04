@@ -1,0 +1,57 @@
+.baixo{
+    position: absolute;
+    top: 86%;
+    background-color: brown;
+    border: 5px solid brown;
+    height: 100px;
+    width: 1580px;
+    left: 0%;
+    
+ 
+}
+.meio{
+    position: absolute;
+    top: 45%;
+    background-color: green;
+    border: 5px solid green;
+    height: 200px;
+    width: 300px;
+    left: 26%;
+}
+.meio2{
+    position: absolute;
+    top: 45%;
+    background-color: rgb(82, 7, 112);
+    border: 5px solid rgb(88, 3, 105);
+    height: 200px;
+    width: 300px;
+    left: 60%;
+}
+.topc{
+    position: absolute;
+    top: 0%;
+    background-color: rgb(110, 116, 110);
+    border: 5px solid rgb(109, 124, 115);
+    height: 150px;
+    width: 800px;
+    left: 26%;
+}
+.topr{
+    position: absolute;
+    top: 0%;
+    background-color: rgb(255, 0, 0);
+    border: 5px solid rgb(255, 30, 1);
+    height: 150px;
+    width: 300px;
+    left: 40%;
+}
+.topb{
+    position: absolute;
+    top: 14%;
+    background-color: rgb(25, 0, 255);
+    border: 5px solid rgb(47, 0, 255);
+    height: 45px;
+    width: 300px;
+    left: 40%;
+
+}

@@ -1,0 +1,19 @@
+.div1{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.div2{
+    background-color: rgb(240, 0, 0);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.divisao{
+    background-color: rgb(16, 0, 240);
+    height: 200px;
+    width: 200px;
+    float: left;
+
+}

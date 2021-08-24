@@ -1,0 +1,15 @@
+.esquerda{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+    position:absolute;
+    top: 20%;
+}
+.falso{
+    position:absolute;
+   right: 0%;
+   top: 0%;
+    background-color: blue;
+    width: 600px;
+    height: 800px;
+}
